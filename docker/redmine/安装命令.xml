@@ -1,0 +1,3 @@
+1.安装命令如下:
+  (1)docker run --name postgresql-redmine -d --env 'DB_NAME=redmine_production' --env 'DB_USER=redmine' --env 'DB_PASS=password' sameersbn/postgresql:9.4-12
+  (2)docker run --name=redmine --link=postgresql-redmine:postgresql --publish=10083:80 --env='REDMINE_PORT=10083' sameersbn/redmine:3.2.0-4

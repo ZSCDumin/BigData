@@ -1,0 +1,10 @@
+<component name="CopyrightManager">
+  <settings>
+    <LanguageOptions name="JAVA">
+      <option name="fileTypeOverride" value="3" />
+    </LanguageOptions>
+    <LanguageOptions name="Scala">
+      <option name="fileTypeOverride" value="3" />
+    </LanguageOptions>
+  </settings>
+</component>

@@ -1,0 +1,3 @@
+1.安装命令如下:
+ (1)docker run --name db --env MYSQL_ROOT_PASSWORD=example -d mariadb
+ (2)docker run --name MyWordPress --link db:mysql -p 8080:80 -d wordpress
