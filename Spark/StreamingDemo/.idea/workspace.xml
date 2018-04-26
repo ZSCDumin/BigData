@@ -1,0 +1,808 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dcf63e01-a363-4668-85a5-2bc52f4364a8" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/../PythonDemo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonDemo/com/zscdumin/consumer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonDemo/com/zscdumin/producer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/hydra.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__aopalliance_aopalliance_1_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_101tec_zkclient_0_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_clearspring_analytics_stream_2_7_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_esotericsoftware_kryo_shaded_3_0_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_esotericsoftware_minlog_1_3_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_fasterxml_jackson_core_jackson_annotations_2_6_5_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_fasterxml_jackson_core_jackson_core_2_6_5_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_fasterxml_jackson_core_jackson_databind_2_6_5_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_fasterxml_jackson_module_jackson_module_paranamer_2_6_5_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_fasterxml_jackson_module_jackson_module_scala_2_11_2_6_5_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_google_code_findbugs_jsr305_1_3_9_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_google_guava_guava_14_0_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_google_inject_guice_3_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_google_protobuf_protobuf_java_2_5_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_ning_compress_lzf_1_0_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_thoughtworks_paranamer_paranamer_2_6_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_twitter_chill_2_11_0_8_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_twitter_chill_java_0_8_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_yammer_metrics_metrics_core_2_2_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__commons_beanutils_commons_beanutils_1_7_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__commons_beanutils_commons_beanutils_core_1_8_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__commons_cli_commons_cli_1_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__commons_codec_commons_codec_1_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__commons_collections_commons_collections_3_2_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__commons_configuration_commons_configuration_1_6_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__commons_digester_commons_digester_1_8_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__commons_httpclient_commons_httpclient_3_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__commons_io_commons_io_2_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__commons_lang_commons_lang_2_5_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__commons_net_commons_net_2_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__io_dropwizard_metrics_metrics_core_3_1_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__io_dropwizard_metrics_metrics_graphite_3_1_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__io_dropwizard_metrics_metrics_json_3_1_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__io_dropwizard_metrics_metrics_jvm_3_1_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__io_netty_netty_3_8_0_Final_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__io_netty_netty_all_4_0_42_Final_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__javax_annotation_javax_annotation_api_1_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__javax_inject_javax_inject_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__javax_servlet_javax_servlet_api_3_1_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__javax_validation_validation_api_1_1_0_Final_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__javax_ws_rs_javax_ws_rs_api_2_0_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__log4j_log4j_1_2_17_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__net_java_dev_jets3t_jets3t_0_7_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__net_jpountz_lz4_lz4_1_3_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__net_razorvine_pyrolite_4_13_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__net_sf_py4j_py4j_0_10_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_avro_avro_1_7_7_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_avro_avro_ipc_1_7_7_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_avro_avro_ipc_1_7_7_tests_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_avro_avro_mapred_1_7_7_hadoop2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_commons_commons_compress_1_4_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_commons_commons_crypto_1_0_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_commons_commons_lang3_3_5_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_commons_commons_math3_3_4_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_commons_commons_math_2_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_curator_curator_client_2_4_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_curator_curator_framework_2_4_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_curator_curator_recipes_2_4_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_hadoop_hadoop_annotations_2_2_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_hadoop_hadoop_auth_2_2_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_hadoop_hadoop_client_2_2_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_hadoop_hadoop_common_2_2_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_hadoop_hadoop_hdfs_2_2_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_hadoop_hadoop_mapreduce_client_app_2_2_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_hadoop_hadoop_mapreduce_client_common_2_2_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_hadoop_hadoop_mapreduce_client_core_2_2_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_hadoop_hadoop_mapreduce_client_jobclient_2_2_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_hadoop_hadoop_mapreduce_client_shuffle_2_2_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_hadoop_hadoop_yarn_api_2_2_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_hadoop_hadoop_yarn_client_2_2_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_hadoop_hadoop_yarn_common_2_2_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_hadoop_hadoop_yarn_server_common_2_2_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_ivy_ivy_2_4_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_kafka_kafka_2_11_0_8_2_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_kafka_kafka_clients_0_8_2_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_spark_spark_core_2_11_2_1_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_spark_spark_launcher_2_11_2_1_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_spark_spark_network_common_2_11_2_1_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_spark_spark_network_shuffle_2_11_2_1_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_spark_spark_streaming_2_11_2_1_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_spark_spark_streaming_kafka_0_8_2_11_2_1_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_spark_spark_tags_2_11_2_1_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_spark_spark_unsafe_2_11_2_1_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_xbean_xbean_asm5_shaded_4_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_zookeeper_zookeeper_3_4_5_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_codehaus_jackson_jackson_core_asl_1_9_13_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_codehaus_jackson_jackson_mapper_asl_1_9_13_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_fusesource_leveldbjni_leveldbjni_all_1_8_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_glassfish_hk2_external_aopalliance_repackaged_2_4_0_b34_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_glassfish_hk2_external_javax_inject_2_4_0_b34_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_glassfish_hk2_hk2_api_2_4_0_b34_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_glassfish_hk2_hk2_locator_2_4_0_b34_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_glassfish_hk2_hk2_utils_2_4_0_b34_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_glassfish_hk2_osgi_resource_locator_1_0_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_glassfish_jersey_bundles_repackaged_jersey_guava_2_22_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_glassfish_jersey_containers_jersey_container_servlet_2_22_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_glassfish_jersey_containers_jersey_container_servlet_core_2_22_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_glassfish_jersey_core_jersey_client_2_22_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_glassfish_jersey_core_jersey_common_2_22_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_glassfish_jersey_core_jersey_server_2_22_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_glassfish_jersey_media_jersey_media_jaxb_2_22_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_javassist_javassist_3_18_1_GA_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_json4s_json4s_ast_2_11_3_2_11_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_json4s_json4s_core_2_11_3_2_11_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_json4s_json4s_jackson_2_11_3_2_11_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_mortbay_jetty_jetty_util_6_1_26_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_objenesis_objenesis_2_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_roaringbitmap_RoaringBitmap_0_5_11_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_modules_scala_parser_combinators_2_11_1_0_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_modules_scala_xml_2_11_1_0_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_scala_compiler_2_11_8_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_scala_library_2_11_8_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_scala_reflect_2_11_8_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_scalap_2_11_8_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scalatest_scalatest_2_11_2_2_6_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_slf4j_jcl_over_slf4j_1_7_16_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_slf4j_jul_to_slf4j_1_7_16_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_slf4j_slf4j_api_1_7_16_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_slf4j_slf4j_log4j12_1_7_16_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_sonatype_sisu_inject_cglib_2_2_1_v20090111_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_spark_project_spark_unused_1_0_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_tukaani_xz_1_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_xerial_snappy_snappy_java_1_1_2_6_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__oro_oro_2_0_8_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__xmlenc_xmlenc_0_52_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/streamingdemo-build.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/KafkaTest.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/StreamingExamples.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/copyright/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/hydra.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__aopalliance_aopalliance_1_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__com_carrotsearch_hppc_0_7_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__com_chuusai_shapeless_2_11_2_3_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__com_clearspring_analytics_stream_2_7_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__com_esotericsoftware_kryo_shaded_3_0_3_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__com_esotericsoftware_minlog_1_3_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__com_fasterxml_jackson_core_jackson_annotations_2_6_7_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__com_fasterxml_jackson_core_jackson_core_2_7_9_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__com_fasterxml_jackson_core_jackson_databind_2_6_7_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__com_fasterxml_jackson_module_jackson_module_paranamer_2_7_9_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__com_fasterxml_jackson_module_jackson_module_scala_2_11_2_6_7_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__com_github_fommil_netlib_core_1_1_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__com_github_luben_zstd_jni_1_3_2_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__com_github_rwl_jtransforms_2_4_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__com_google_code_findbugs_jsr305_3_0_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__com_google_code_gson_gson_2_2_4_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__com_google_guava_guava_11_0_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__com_google_inject_guice_3_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__com_google_protobuf_protobuf_java_2_5_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__com_jamesmurty_utils_java_xmlbuilder_1_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__com_ning_compress_lzf_1_0_3_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__com_thoughtworks_paranamer_paranamer_2_8_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__com_twitter_chill_2_11_0_8_4_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__com_twitter_chill_java_0_8_4_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__com_univocity_univocity_parsers_2_5_9_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__com_vlkan_flatbuffers_1_2_0_3f79e055_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__commons_beanutils_commons_beanutils_1_7_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__commons_beanutils_commons_beanutils_core_1_8_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__commons_cli_commons_cli_1_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__commons_codec_commons_codec_1_11_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__commons_collections_commons_collections_3_2_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__commons_configuration_commons_configuration_1_6_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__commons_digester_commons_digester_1_8_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__commons_httpclient_commons_httpclient_3_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__commons_io_commons_io_2_4_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__commons_lang_commons_lang_2_6_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__commons_net_commons_net_2_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__io_airlift_aircompressor_0_8_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__io_dropwizard_metrics_metrics_core_3_1_5_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__io_dropwizard_metrics_metrics_graphite_3_1_5_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__io_dropwizard_metrics_metrics_json_3_1_5_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__io_dropwizard_metrics_metrics_jvm_3_1_5_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__io_netty_netty_3_9_9_Final_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__io_netty_netty_all_4_1_17_Final_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__javax_activation_activation_1_1_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__javax_annotation_javax_annotation_api_1_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__javax_inject_javax_inject_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__javax_servlet_javax_servlet_api_3_1_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__javax_validation_validation_api_1_1_0_Final_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__javax_ws_rs_javax_ws_rs_api_2_0_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__javax_xml_bind_jaxb_api_2_2_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__javax_xml_stream_stax_api_1_0_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__jline_jline_0_9_94_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__joda_time_joda_time_2_9_9_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__log4j_log4j_1_2_17_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__net_iharder_base64_2_3_8_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__net_java_dev_jets3t_jets3t_0_9_4_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__net_razorvine_pyrolite_4_13_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__net_sf_opencsv_opencsv_2_3_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__net_sf_py4j_py4j_0_10_6_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__net_sourceforge_f2j_arpack_combined_all_0_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__org_antlr_antlr4_runtime_4_7_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__org_apache_arrow_arrow_format_0_8_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__org_apache_arrow_arrow_memory_0_8_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__org_apache_arrow_arrow_vector_0_8_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__org_apache_avro_avro_1_7_7_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__org_apache_avro_avro_ipc_1_7_7_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__org_apache_avro_avro_ipc_1_7_7_tests_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__org_apache_avro_avro_mapred_1_7_7_hadoop2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__org_apache_commons_commons_compress_1_4_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__org_apache_commons_commons_crypto_1_0_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__org_apache_commons_commons_lang3_3_5_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__org_apache_commons_commons_math3_3_4_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__org_apache_curator_curator_client_2_6_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__org_apache_curator_curator_framework_2_6_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__org_apache_curator_curator_recipes_2_6_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__org_apache_directory_api_api_asn1_api_1_0_0_M20_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__org_apache_directory_api_api_util_1_0_0_M20_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__org_apache_directory_server_apacheds_i18n_2_0_0_M15_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__org_apache_directory_server_apacheds_kerberos_codec_2_0_0_M15_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__org_apache_hadoop_hadoop_annotations_2_6_5_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__org_apache_hadoop_hadoop_auth_2_6_5_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__org_apache_hadoop_hadoop_client_2_6_5_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__org_apache_hadoop_hadoop_common_2_6_5_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__org_apache_hadoop_hadoop_hdfs_2_6_5_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__org_apache_hadoop_hadoop_mapreduce_client_app_2_6_5_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__org_apache_hadoop_hadoop_mapreduce_client_common_2_6_5_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__org_apache_hadoop_hadoop_mapreduce_client_core_2_6_5_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__org_apache_hadoop_hadoop_mapreduce_client_jobclient_2_6_5_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__org_apache_hadoop_hadoop_mapreduce_client_shuffle_2_6_5_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__org_apache_hadoop_hadoop_yarn_api_2_6_5_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__org_apache_hadoop_hadoop_yarn_client_2_6_5_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__org_apache_hadoop_hadoop_yarn_common_2_6_5_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__org_apache_hadoop_hadoop_yarn_server_common_2_6_5_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__org_apache_httpcomponents_httpclient_4_5_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__org_apache_httpcomponents_httpcore_4_4_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__org_apache_ivy_ivy_2_4_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__org_apache_orc_orc_core_1_4_1_nohive_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__org_apache_orc_orc_mapreduce_1_4_1_nohive_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__org_apache_parquet_parquet_column_1_8_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__org_apache_parquet_parquet_common_1_8_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__org_apache_parquet_parquet_encoding_1_8_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__org_apache_parquet_parquet_format_2_3_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__org_apache_parquet_parquet_hadoop_1_8_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__org_apache_parquet_parquet_jackson_1_8_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__org_apache_spark_spark_catalyst_2_11_2_3_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__org_apache_spark_spark_core_2_11_2_3_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__org_apache_spark_spark_graphx_2_11_2_3_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__org_apache_spark_spark_kvstore_2_11_2_3_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__org_apache_spark_spark_launcher_2_11_2_3_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__org_apache_spark_spark_mllib_2_11_2_3_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__org_apache_spark_spark_mllib_local_2_11_2_3_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__org_apache_spark_spark_network_common_2_11_2_3_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__org_apache_spark_spark_network_shuffle_2_11_2_3_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__org_apache_spark_spark_sketch_2_11_2_3_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__org_apache_spark_spark_sql_2_11_2_3_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__org_apache_spark_spark_streaming_2_11_2_3_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__org_apache_spark_spark_tags_2_11_2_3_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__org_apache_spark_spark_unsafe_2_11_2_3_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__org_apache_xbean_xbean_asm5_shaded_4_4_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__org_apache_zookeeper_zookeeper_3_4_6_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__org_bouncycastle_bcprov_jdk15on_1_52_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__org_codehaus_jackson_jackson_core_asl_1_9_13_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__org_codehaus_jackson_jackson_jaxrs_1_9_13_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__org_codehaus_jackson_jackson_mapper_asl_1_9_13_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__org_codehaus_jackson_jackson_xc_1_9_13_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__org_codehaus_janino_commons_compiler_3_0_8_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__org_codehaus_janino_janino_3_0_8_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__org_codehaus_jettison_jettison_1_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__org_fusesource_leveldbjni_leveldbjni_all_1_8_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__org_glassfish_hk2_external_aopalliance_repackaged_2_4_0_b34_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__org_glassfish_hk2_external_javax_inject_2_4_0_b34_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__org_glassfish_hk2_hk2_api_2_4_0_b34_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__org_glassfish_hk2_hk2_locator_2_4_0_b34_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__org_glassfish_hk2_hk2_utils_2_4_0_b34_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__org_glassfish_hk2_osgi_resource_locator_1_0_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__org_glassfish_jersey_bundles_repackaged_jersey_guava_2_22_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__org_glassfish_jersey_containers_jersey_container_servlet_2_22_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__org_glassfish_jersey_containers_jersey_container_servlet_core_2_22_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__org_glassfish_jersey_core_jersey_client_2_22_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__org_glassfish_jersey_core_jersey_common_2_22_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__org_glassfish_jersey_core_jersey_server_2_22_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__org_glassfish_jersey_media_jersey_media_jaxb_2_22_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__org_htrace_htrace_core_3_0_4_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__org_javassist_javassist_3_18_1_GA_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__org_json4s_json4s_ast_2_11_3_2_11_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__org_json4s_json4s_core_2_11_3_2_11_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__org_json4s_json4s_jackson_2_11_3_2_11_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__org_lz4_lz4_java_1_4_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__org_mortbay_jetty_jetty_util_6_1_26_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__org_objenesis_objenesis_2_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__org_roaringbitmap_RoaringBitmap_0_5_11_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__org_scala_lang_modules_scala_parser_combinators_2_11_1_0_4_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__org_scala_lang_modules_scala_xml_2_11_1_0_5_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__org_scala_lang_scala_compiler_2_11_10_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__org_scala_lang_scala_library_2_11_10_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__org_scala_lang_scala_reflect_2_11_10_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__org_scala_lang_scalap_2_11_10_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__org_scalanlp_breeze_2_11_0_13_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__org_scalanlp_breeze_macros_2_11_0_13_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__org_slf4j_jcl_over_slf4j_1_7_16_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__org_slf4j_jul_to_slf4j_1_7_16_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__org_slf4j_slf4j_api_1_7_25_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__org_slf4j_slf4j_log4j12_1_7_16_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__org_sonatype_sisu_inject_cglib_2_2_1_v20090111_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__org_spark_project_spark_unused_1_0_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__org_spire_math_spire_2_11_0_13_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__org_spire_math_spire_macros_2_11_0_13_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__org_tukaani_xz_1_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__org_typelevel_machinist_2_11_0_6_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__org_typelevel_macro_compat_2_11_1_1_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__org_xerial_snappy_snappy_java_1_1_2_6_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__oro_oro_2_0_8_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__xerces_xercesImpl_2_9_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__xml_apis_xml_apis_1_3_04_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/libraries/sbt__xmlenc_xmlenc_0_52_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/modules/spark-build.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/modules/spark.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/sbt.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/.idea/scala_compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/build.sbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/ml-1m/movies.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/ml-1m/personalRatings.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/ml-1m/ratings.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/ml-1m/users.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/project/build.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/src/main/scala/MR.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkMLLIBMoviesRecommendation/src/main/scala/MoviesRecommendation.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sparkapp/project/target/config-classes/$963063e6fbde2236f0c1$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sparkapp/project/target/config-classes/$963063e6fbde2236f0c1$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sparkapp/project/target/config-classes/$963063e6fbde2236f0c1.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sparkapp/project/target/config-classes/$963063e6fbde2236f0c1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sparkapp/project/target/config-classes/$d134240d8ec503254dce$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sparkapp/project/target/config-classes/$d134240d8ec503254dce$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sparkapp/project/target/config-classes/$d134240d8ec503254dce.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sparkapp/project/target/config-classes/$d134240d8ec503254dce.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sparkapp/project/target/config-classes/$df2e271f5e86605fbc9c$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sparkapp/project/target/config-classes/$df2e271f5e86605fbc9c$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sparkapp/project/target/config-classes/$df2e271f5e86605fbc9c.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sparkapp/project/target/config-classes/$df2e271f5e86605fbc9c.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sparkapp/project/target/config-classes/$e0f188752d112e87055d$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sparkapp/project/target/config-classes/$e0f188752d112e87055d$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sparkapp/project/target/config-classes/$e0f188752d112e87055d.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sparkapp/project/target/config-classes/$e0f188752d112e87055d.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sparkapp/simple.sbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sparkapp/src/main/scala/SimpleApp.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sparkapp/target/resolution-cache/reports/ivy-report.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sparkapp/target/resolution-cache/reports/ivy-report.xsl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sparkapp/target/resolution-cache/reports/simple-project-simple-project_2.11-compile-internal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sparkapp/target/resolution-cache/reports/simple-project-simple-project_2.11-compile.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sparkapp/target/resolution-cache/reports/simple-project-simple-project_2.11-docs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sparkapp/target/resolution-cache/reports/simple-project-simple-project_2.11-optional.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sparkapp/target/resolution-cache/reports/simple-project-simple-project_2.11-plugin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sparkapp/target/resolution-cache/reports/simple-project-simple-project_2.11-pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sparkapp/target/resolution-cache/reports/simple-project-simple-project_2.11-provided.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sparkapp/target/resolution-cache/reports/simple-project-simple-project_2.11-runtime-internal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sparkapp/target/resolution-cache/reports/simple-project-simple-project_2.11-runtime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sparkapp/target/resolution-cache/reports/simple-project-simple-project_2.11-scala-tool.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sparkapp/target/resolution-cache/reports/simple-project-simple-project_2.11-sources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sparkapp/target/resolution-cache/reports/simple-project-simple-project_2.11-test-internal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sparkapp/target/resolution-cache/reports/simple-project-simple-project_2.11-test.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sparkapp/target/resolution-cache/simple-project/simple-project_2.11/1.0/resolved.xml.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sparkapp/target/resolution-cache/simple-project/simple-project_2.11/1.0/resolved.xml.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sparkapp/target/scala-2.11/classes/SimpleApp$$anonfun$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sparkapp/target/scala-2.11/classes/SimpleApp$$anonfun$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sparkapp/target/scala-2.11/classes/SimpleApp$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sparkapp/target/scala-2.11/classes/SimpleApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sparkapp/target/scala-2.11/simple-project_2.11-1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sparkapp/target/streams/$global/$global/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sparkapp/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/input_dsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sparkapp/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/output_dsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sparkapp/target/streams/$global/ivyConfiguration/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sparkapp/target/streams/$global/ivySbt/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sparkapp/target/streams/$global/projectDescriptors/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sparkapp/target/streams/$global/update/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sparkapp/target/streams/$global/update/$global/streams/update_cache_2.11/inputs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sparkapp/target/streams/$global/update/$global/streams/update_cache_2.11/output" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sparkapp/target/streams/$global/updateSbtClassifiers/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sparkapp/target/streams/compile/$global/$global/discoveredMainClasses/data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sparkapp/target/streams/compile/compile/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sparkapp/target/streams/compile/compileIncremental/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sparkapp/target/streams/compile/compileIncremental/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sparkapp/target/streams/compile/copyResources/$global/streams/copy-resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sparkapp/target/streams/compile/copyResources/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sparkapp/target/streams/compile/dependencyClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sparkapp/target/streams/compile/externalDependencyClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sparkapp/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.11" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sparkapp/target/streams/compile/internalDependencyClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sparkapp/target/streams/compile/mainClass/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sparkapp/target/streams/compile/managedClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sparkapp/target/streams/compile/packageBin/$global/streams/inputs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sparkapp/target/streams/compile/packageBin/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sparkapp/target/streams/compile/packageBin/$global/streams/output" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sparkapp/target/streams/compile/unmanagedClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sparkapp/target/streams/compile/unmanagedJars/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sparkapp2/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sparkapp2/src/main/java/SimpleApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sparkapp2/target/classes/SimpleApp$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sparkapp2/target/classes/SimpleApp$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sparkapp2/target/classes/SimpleApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sparkapp2/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sparkapp2/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sparkapp2/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sparkapp2/target/simple-project-1.0.jar" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/project/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="SBT">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="StreamingDemo" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="build.sbt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.sbt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StreamingExamples.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/StreamingExamples.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48">
+              <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
+              <folding>
+                <element signature="e#0#40#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="KafkaTest.scala" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/KafkaTest.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="24">
+              <caret line="6" column="33" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/build.sbt" />
+        <option value="$PROJECT_DIR$/src/main/scala/StreamingExamples.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/KafkaTest.scala" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1600" />
+    <option name="height" value="860" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="StreamingDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StreamingDemo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="StreamingDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StreamingDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="StreamingDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StreamingDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="StreamingDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StreamingDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="StreamingDemo" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="streamingdemo" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="streamingdemo-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="1524714025000" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="1082645580" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="2466230007" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dcf63e01-a363-4668-85a5-2bc52f4364a8" name="Default" comment="" />
+      <created>1524713947214</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1524713947214</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1600" height="860" extended-state="0" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="SBT Console" order="7" />
+      <window_info anchor="right" id="sbt" order="3" visible="true" weight="0.006476684" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21891192" />
+      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="7" />
+      <window_info active="true" anchor="bottom" id="Build" order="7" visible="true" weight="0.32956153" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/build.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/StreamingExamples.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" column="36" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/KafkaTest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="33" lean-forward="true" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/StreamingExamples/scala.scala" />
+    <entry file="file://$PROJECT_DIR$/build.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/StreamingExamples.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/KafkaTest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="6" column="33" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Python 3.6 interpreter library</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>streamingdemo</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

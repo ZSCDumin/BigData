@@ -1,0 +1,37 @@
+[0m[[0minfo[0m] [0mPackaging /home/hadoop/IdeaProjects/StreamingDemo/target/scala-2.11/streamingdemo_2.11-1.0.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/examples/streaming/KafkaWordCount$$anonfun$6.class[0m
+[0m[[0mdebug[0m] [0m	  /home/hadoop/IdeaProjects/StreamingDemo/target/scala-2.11/classes/org/apache/spark/examples/streaming/KafkaWordCount$$anonfun$6.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/examples/streaming/StreamingExamples$.class[0m
+[0m[[0mdebug[0m] [0m	  /home/hadoop/IdeaProjects/StreamingDemo/target/scala-2.11/classes/org/apache/spark/examples/streaming/StreamingExamples$.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/examples/streaming[0m
+[0m[[0mdebug[0m] [0m	  /home/hadoop/IdeaProjects/StreamingDemo/target/scala-2.11/classes/org/apache/spark/examples/streaming[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/examples/streaming/KafkaWordCount.class[0m
+[0m[[0mdebug[0m] [0m	  /home/hadoop/IdeaProjects/StreamingDemo/target/scala-2.11/classes/org/apache/spark/examples/streaming/KafkaWordCount.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/examples/streaming/KafkaWordCount$$anonfun$5.class[0m
+[0m[[0mdebug[0m] [0m	  /home/hadoop/IdeaProjects/StreamingDemo/target/scala-2.11/classes/org/apache/spark/examples/streaming/KafkaWordCount$$anonfun$5.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/examples/streaming/KafkaWordCount$.class[0m
+[0m[[0mdebug[0m] [0m	  /home/hadoop/IdeaProjects/StreamingDemo/target/scala-2.11/classes/org/apache/spark/examples/streaming/KafkaWordCount$.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/examples/streaming/KafkaWordCount$$anonfun$7.class[0m
+[0m[[0mdebug[0m] [0m	  /home/hadoop/IdeaProjects/StreamingDemo/target/scala-2.11/classes/org/apache/spark/examples/streaming/KafkaWordCount$$anonfun$7.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/examples[0m
+[0m[[0mdebug[0m] [0m	  /home/hadoop/IdeaProjects/StreamingDemo/target/scala-2.11/classes/org/apache/spark/examples[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/examples/streaming/KafkaWordCount$$anonfun$3.class[0m
+[0m[[0mdebug[0m] [0m	  /home/hadoop/IdeaProjects/StreamingDemo/target/scala-2.11/classes/org/apache/spark/examples/streaming/KafkaWordCount$$anonfun$3.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/examples/streaming/KafkaWordCount$$anonfun$4.class[0m
+[0m[[0mdebug[0m] [0m	  /home/hadoop/IdeaProjects/StreamingDemo/target/scala-2.11/classes/org/apache/spark/examples/streaming/KafkaWordCount$$anonfun$4.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/examples/streaming/KafkaWordCount$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	  /home/hadoop/IdeaProjects/StreamingDemo/target/scala-2.11/classes/org/apache/spark/examples/streaming/KafkaWordCount$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/examples/streaming/StreamingExamples$$anonfun$setStreamingLogLevels$1.class[0m
+[0m[[0mdebug[0m] [0m	  /home/hadoop/IdeaProjects/StreamingDemo/target/scala-2.11/classes/org/apache/spark/examples/streaming/StreamingExamples$$anonfun$setStreamingLogLevels$1.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/examples/streaming/KafkaWordCount$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	  /home/hadoop/IdeaProjects/StreamingDemo/target/scala-2.11/classes/org/apache/spark/examples/streaming/KafkaWordCount$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	org[0m
+[0m[[0mdebug[0m] [0m	  /home/hadoop/IdeaProjects/StreamingDemo/target/scala-2.11/classes/org[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark[0m
+[0m[[0mdebug[0m] [0m	  /home/hadoop/IdeaProjects/StreamingDemo/target/scala-2.11/classes/org/apache/spark[0m
+[0m[[0mdebug[0m] [0m	org/apache/spark/examples/streaming/StreamingExamples.class[0m
+[0m[[0mdebug[0m] [0m	  /home/hadoop/IdeaProjects/StreamingDemo/target/scala-2.11/classes/org/apache/spark/examples/streaming/StreamingExamples.class[0m
+[0m[[0mdebug[0m] [0m	org/apache[0m
+[0m[[0mdebug[0m] [0m	  /home/hadoop/IdeaProjects/StreamingDemo/target/scala-2.11/classes/org/apache[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m
